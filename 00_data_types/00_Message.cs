@@ -1,4 +1,4 @@
-//Write a program that displays the following message:"My name is <myFirstName>, I am <age> years old. I am an <rade>grade student."
+//Write a program that displays the following message:"My name is <myFirstName>, I am <age> years old. I am an <grade> grade student."
 
 int age = 30;
 string firstName = "Ifenna";
